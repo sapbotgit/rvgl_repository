@@ -1,0 +1,12 @@
+{
+  "name":"Sapbot's RVGL Repository",
+  "version":"1",
+  "packages":{
+    "sap_anm_adeonskinpack":{
+      "description":"Skin pack for Adeon car. Version is count of skins.",
+      "version":"3",
+      "checksum":"34cb1fefc1020d6ae0557e1240578ed007e7c237a5607cf07d0175fa5c52cc6b",
+      "url":""
+    }
+  }
+}
